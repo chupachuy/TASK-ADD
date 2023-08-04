@@ -13,7 +13,7 @@
         
 
         if(!$result){
-            var_dump($query);
+            //var_dump($query);
             die('La consulta ha fallado');
         }
 
